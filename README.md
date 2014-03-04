@@ -1,4 +1,4 @@
 circle-detector
 ===============
 
-Detect circles in MRI images.
+Detect circles in images.
